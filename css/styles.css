@@ -1,0 +1,106 @@
+/* Reset Styles */
+.container-fluid {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.row {
+    margin: 0 !important;
+}
+
+.col-xs-12 {
+    padding-bottom: 40px;
+}
+
+.col-xs-12.col-md-4 p {
+    width: 90%;
+}
+
+a:link, a:visited {
+    color: white;
+    margin: 10px;
+    text-decoration: none !important;
+}
+
+a:hover, a:active {
+    color: #eee;
+    text-decoration: none !important;
+}
+
+/* End Reset Styles */
+
+body {
+    font-family: "Open Sans";
+}
+
+header {
+    background-image: url('../images/hero.jpg');
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+    text-align: center;
+    font-weight: lighter;
+}
+
+nav {
+    height: 75px;
+    line-height: 75px;
+}
+
+h1 {
+    color: white;
+    margin-top: 70px;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+}
+
+h3 {
+    color: #d8d8d8;
+    font-size: 16px;
+}
+
+.buy {
+    background-color: #e54231;
+    color: white;
+    border-radius: 3px;
+    font-size: 16px;
+    padding: 10px 40px 10px 40px;
+    line-height: 90px;
+}
+
+.row {
+    color: #252527;
+    padding: 50px 0 50px 0;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+p {
+    text-align: center;
+    max-width: 400px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.icon {
+    width: 64px;
+    height: 64px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    background-size: cover;
+}
+
+#lightning {
+    background-image: url('../images/lightning.png');
+}
+
+#cloud {
+    background-image: url('../images/cloud.png');
+}
+
+#people {
+    background-image: url('../images/people.png');
+}

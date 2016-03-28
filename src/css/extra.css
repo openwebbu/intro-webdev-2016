@@ -1,0 +1,40 @@
+#title {
+    position: relative;
+    top: 25%;
+    transform: translateY(-25%);
+}
+
+a:link, a:visited {
+    color: #fff;
+}
+
+a:hover, a:active {
+    text-decoration: none;
+}
+
+#nav a {
+    margin: 2em;
+}
+
+@media (max-width: 767px) {
+    #nav a {
+        margin: 1em !important;
+    }
+    
+    #title {
+        padding: 20px 20px 20px 20px !important;
+    }
+     
+    #nav {
+        width: 300px !important;
+        font-size: 12px !important;
+    }
+    
+    .col {
+        margin-bottom: 2em;
+    }
+    
+    .about {
+        width: 300px !important;
+    }
+} 
