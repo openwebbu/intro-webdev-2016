@@ -1,34 +1,3 @@
-/* Reset Styles */
-.container-fluid {
-    margin: 0 !important;
-    padding: 0 !important;
-}
-
-.row {
-    margin: 0 !important;
-}
-
-.col-xs-12 {
-    padding-bottom: 40px;
-}
-
-.col-xs-12.col-md-4 p {
-    width: 90%;
-}
-
-a:link, a:visited {
-    color: white;
-    margin: 10px;
-    text-decoration: none !important;
-}
-
-a:hover, a:active {
-    color: #eee;
-    text-decoration: none !important;
-}
-
-/* End Reset Styles */
-
 body {
     font-family: "Open Sans";
 }

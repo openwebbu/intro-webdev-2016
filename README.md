@@ -1,3 +1,5 @@
-# Open Web Introduction to Web Development Workshop - Spring 2016
+# Open Web Introduction to Web Development Workshop - Fall 2016
 
-This is the final source code for our web dev workshop. 
+## Fall 2016 Updates
+* Moved reset styles to bootstrap.css
+* Changed length of lorem ipsum text
